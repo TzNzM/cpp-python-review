@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "d:/Learning Documents/WorkFinding/cpp-python-review/01-cpp/practice/day6",
+      "program": "d:/Learning Documents/WorkFinding/cpp-python-review/01-cpp/practice/day6/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "D:/mingw64/bin/gdb.exe",
       "setupCommands": [
