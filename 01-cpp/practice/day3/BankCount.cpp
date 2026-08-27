@@ -1,8 +1,7 @@
 #include"BankCount.h"
 
-BankAccount::BankAccount(const std::string& owner, int initial_balance){
-    m_nbalance = initial_balance;
-    m_sowner = owner;
+BankAccount::BankAccount(const std::string& owner, int initial_balance) : m_nbalance(initial_balance),m_sowner(owner){
+
 }
 
 bool BankAccount::deposit(int amount){
