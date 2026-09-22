@@ -1,0 +1,2 @@
+data/cat_001.jpg	cat
+data/lion_002.jpg	lion

@@ -1,0 +1,5 @@
+data/cat_001.jpg	cat
+data/dog_002.jpg	 dog 
+
+ data/bird_003.jpg 	 bird
+data/cat_004.jpg	cat

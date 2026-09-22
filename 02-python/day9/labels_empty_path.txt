@@ -1,0 +1,2 @@
+data/cat_001.jpg	cat
+	bird
